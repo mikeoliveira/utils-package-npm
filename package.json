@@ -1,0 +1,24 @@
+{
+  "name": "utils-package-npm",
+  "version": "1.0.0",
+  "description": "This package content many basic functions to learn and pratice how create and matence a package npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mikeoliveira/utils-package-npm.git"
+  },
+  "keywords": [
+    "utils",
+    "javascript",
+    "hello-world"
+  ],
+  "author": "Mike Costa <mikeoliveira@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeoliveira/utils-package-npm/issues"
+  },
+  "homepage": "https://github.com/mikeoliveira/utils-package-npm#readme"
+}
